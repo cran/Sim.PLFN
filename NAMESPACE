@@ -1,0 +1,4 @@
+exportPattern("^[[:alpha:]]+")
+importFrom("graphics", "abline", "curve", "par", "legend")
+importFrom("FuzzyNumbers", "supp", "core", "alphacut", "plot", "TriangularFuzzyNumber", "TrapezoidalFuzzyNumber", "PowerFuzzyNumber", "as.PiecewiseLinearFuzzyNumber", "piecewiseLinearApproximation", "PiecewiseLinearFuzzyNumber")
+importFrom("DISTRIB", "rd")
